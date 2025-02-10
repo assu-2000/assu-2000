@@ -8,20 +8,9 @@
 - `Java`
 - `Go` and `TypeScript`
 
-### Areas of Expertise
+### Areas of Interests
 - `Distributed Systems`, `Infrastructure` & `DevOps`
 - `Cloud Computing`, `Networking Security` and `CI/CD Pipelines`
----
-
-### 🎤 Community Involvement
-- **Google Devoloper Group Kinshasa** - Organiser
-- **Former GDSC Lead** – Organized technical events on campus to help the community master modern technologies.
----
-
-### 🌍 Vision
-
-I believe that strong technical foundations enable the creation of innovative solutions. My ambition is to:  
-- **Build** high-performance systems to tackle complex, large-scale problems.  
 ---
 
 ### 📫 Get in Touch
