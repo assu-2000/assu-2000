@@ -17,7 +17,7 @@
 
 ## 🎤 Community Involvement
 - **Google Devoloper Group Kinshasa** - Organiser
-- **GDSC Lead** – Organized technical events to help the community master modern technologies.
+- **Former GDSC Lead** – Organized technical events on campus to help the community master modern technologies.
 ---
 
 ## 🌍 Vision
