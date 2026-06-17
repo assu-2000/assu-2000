@@ -1,5 +1,5 @@
 ## 👋 `Assu`
-- 🎓 `Software Engineering Student`
+- 🎓 `Software Engineering & Pure Mathematics @University of Kinshasa, mba @manchester`
 - 🌐 `Open Source` `Contributor` 
 - 💡 Active organizer and contributor in tech communities, particularly as `Google Developer Group` --Kinshasa Organiser.
 ---
